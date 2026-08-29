@@ -6,4 +6,4 @@ def subtract(a, b):
     return a - b
 
 
-print("Calculator application - Develop Branch")
+print("Calculator application - CI Test")
